@@ -1,5 +1,5 @@
 .section1 {
-    background-color: lightgrey;
+    background-color: lightslategrey;
 }
 
 .youtubeLogo {
@@ -7,3 +7,9 @@
     width: 100px;
 }
 
+.otherLinks {
+    display: flex;
+    gap: 10px;
+    display: flex;
+    justify-content: flex-end;
+}
