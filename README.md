@@ -1,1 +1,1 @@
-# Website-Template
+Welcome! Today I will be creating a basic website template using HTML and CSS. The bread and butter of this project will be using multiple divs containing messages, pictures, and links. Most of the information will be things that I enjoy in my life. 
